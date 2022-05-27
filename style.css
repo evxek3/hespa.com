@@ -27,3 +27,7 @@
   margin: 0 auto;
   padding: 0 50px;
 }
+
+#navbar__logo {
+  background-color: #ff8177;
+}
