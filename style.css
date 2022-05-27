@@ -10,7 +10,7 @@
   height: 80px;
   display: flex;
   justify-content: center;
-  aligh-items: center;
+  align-items: center;
   font-size: 1.2rem;
   position: sticky;
   top: 0;
@@ -37,7 +37,7 @@
   -webkit-text-fill-color: transparent;
   -moz-text-fill-color: transparent;
   display: flex;
-  aligh-items: center;
+  align-items: center;
   cursor: pointer;
   text-decoration: none;
   font-size: 2rem;
@@ -49,9 +49,9 @@
 
 .navbar__menu{
   display: flex;
-  aligh-items: center;
+  align-items: center;
   list-style: none;
-  text-aligh: center;
+  text-align: center;
 }
 
 .navbar__item{
@@ -61,7 +61,7 @@
 .navbar__links{
   color: #fff;
   display: flex;
-  aligh-items: center;
+  align-items: center;
   justify-content: center;
   text-decoration: none;
   padding: 0 1rem;
@@ -71,7 +71,7 @@
 .navbar_btn {
   display: flex;
   justify-content: center;
-  aligh-items: center;
+  align-items: center;
   padding: 0 1rem;
   width: 100%;
 }
@@ -79,7 +79,7 @@
 .button {
   display: flex;
   justify-content: center;
-  aligh-items: center;
+  align-items: center;
   text-decoration: none;
   padding: 10px 20px;
   height: 100%;
